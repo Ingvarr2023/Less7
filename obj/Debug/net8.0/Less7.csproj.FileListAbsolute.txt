@@ -1,0 +1,14 @@
+D:\Programmes\Less7\bin\Debug\net8.0\Less7.exe
+D:\Programmes\Less7\bin\Debug\net8.0\Less7.deps.json
+D:\Programmes\Less7\bin\Debug\net8.0\Less7.runtimeconfig.json
+D:\Programmes\Less7\bin\Debug\net8.0\Less7.dll
+D:\Programmes\Less7\bin\Debug\net8.0\Less7.pdb
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.AssemblyInfoInputs.cache
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.AssemblyInfo.cs
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.csproj.CoreCompileInputs.cache
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.dll
+D:\Programmes\Less7\obj\Debug\net8.0\refint\Less7.dll
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.pdb
+D:\Programmes\Less7\obj\Debug\net8.0\Less7.genruntimeconfig.cache
+D:\Programmes\Less7\obj\Debug\net8.0\ref\Less7.dll
